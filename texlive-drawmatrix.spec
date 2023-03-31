@@ -1,6 +1,6 @@
 Name:		texlive-drawmatrix
 Version:	44471
-Release:	1
+Release:	2
 Summary:	Draw visual representations of matrices in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/drawmatrix
